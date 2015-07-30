@@ -1,7 +1,7 @@
 XButton1::
-SendInput, {RAlt down}{RCtrl down}{RShift down}{1 down}
+SendInput, {RWin down}{Tab down}
 Sleep 0.01
-SendInput, {RAlt up}{RCtrl up}{RShift up}{1 up}
+SendInput, {RWin up}{Tab up}
 return
 
 XButton2::
