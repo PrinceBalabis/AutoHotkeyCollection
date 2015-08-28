@@ -6,9 +6,7 @@ Mouse.Multitasking_Mode
 */
 
 XButton1::
-SendInput, {RWin down}{Tab down}
-Sleep 0.01
-SendInput, {RWin up}{Tab up}
+SendInput, {RWin down}{Tab down}{RWin up}{Tab up}
 return
 
 XButton2::
