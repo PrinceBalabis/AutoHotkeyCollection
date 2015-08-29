@@ -1,0 +1,1 @@
+﻿Run, %LocalAppData%\atom\bin\atom.cmd "%1%",,Hide
